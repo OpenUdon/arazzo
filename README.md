@@ -2,12 +2,12 @@
 
 A Go library for parsing, validating, and generating [Arazzo 1.0](https://spec.openapis.org/arazzo/v1.0.0) documents. Arazzo is an OpenAPI Initiative specification for describing workflows that span multiple APIs.
 
-[![GoDoc](https://godoc.org/github.com/tabilet/arazzo?status.svg)](https://godoc.org/github.com/tabilet/arazzo)
+[![GoDoc](https://godoc.org/github.com/OpenUdon/arazzo?status.svg)](https://godoc.org/github.com/OpenUdon/arazzo)
 
 ## Installation
 
 ```bash
-go get github.com/tabilet/arazzo
+go get github.com/OpenUdon/arazzo
 ```
 
 ## Features
@@ -32,7 +32,7 @@ import (
     "log"
     "os"
 
-    "github.com/tabilet/arazzo/arazzo1"
+    "github.com/OpenUdon/arazzo/arazzo1"
 )
 
 func main() {
@@ -69,7 +69,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/tabilet/arazzo/arazzo1"
+    "github.com/OpenUdon/arazzo/arazzo1"
 )
 
 func main() {
@@ -118,7 +118,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/tabilet/arazzo/arazzo1"
+    "github.com/OpenUdon/arazzo/arazzo1"
 )
 
 func main() {
@@ -266,7 +266,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/tabilet/arazzo/convert"
+    "github.com/OpenUdon/arazzo/convert"
 )
 
 func main() {
@@ -323,7 +323,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/tabilet/arazzo/convert"
+    "github.com/OpenUdon/arazzo/convert"
 )
 
 func main() {
@@ -365,8 +365,8 @@ import (
     "fmt"
     "log"
 
-    "github.com/tabilet/arazzo/arazzo1"
-    "github.com/tabilet/arazzo/convert"
+    "github.com/OpenUdon/arazzo/arazzo1"
+    "github.com/OpenUdon/arazzo/convert"
 )
 
 func main() {
@@ -486,7 +486,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/tabilet/arazzo/generator"
+    "github.com/OpenUdon/arazzo/generator"
 )
 
 func main() {
@@ -572,6 +572,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Related Projects
 
-- [tabilet/oas](https://github.com/tabilet/oas) - Go parser for OpenAPI 3.0 and 3.1 specifications
+- [tabilet/oas](https://github.com/OpenUdon/oas) - Go parser for OpenAPI 3.0 and 3.1 specifications
 - [genelet/horizon](https://github.com/genelet/horizon) - HCL parsing library used for HCL format support
 - [Arazzo Specification](https://spec.openapis.org/arazzo/v1.0.0) - Official Arazzo specification

@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"strings"
 
-	"github.com/tabilet/arazzo/arazzo1"
+	"github.com/OpenUdon/arazzo/arazzo1"
 	"github.com/genelet/horizon/dethcl"
 )
 

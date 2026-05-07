@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/tabilet/arazzo/arazzo1"
+	"github.com/OpenUdon/arazzo/arazzo1"
 	"gopkg.in/yaml.v3"
 )
 

@@ -3,8 +3,8 @@ package generator
 import (
 	"testing"
 
-	"github.com/tabilet/arazzo/arazzo1"
-	"github.com/tabilet/oas/openapi31"
+	"github.com/OpenUdon/arazzo/arazzo1"
+	"github.com/OpenUdon/oas/openapi31"
 	"github.com/stretchr/testify/assert"
 )
 
