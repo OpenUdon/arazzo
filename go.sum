@@ -14,6 +14,8 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/genelet/horizon v1.14.3-0.20260507024204-391037c28b8e h1:2yYmXEr6+/v0ZtNrRWur79PUfm6DmrX+dxU1heuNC6M=
 github.com/genelet/horizon v1.14.3-0.20260507024204-391037c28b8e/go.mod h1:lvPSeRwv8moIbQUqsMkKRTxtkwevlu0xTuk4Dwx9+Ro=
+github.com/genelet/horizon v1.14.3 h1:LslljqzFUCsZ0gp/lTVP/NViiAVgJhxyqx7p2WuwGL0=
+github.com/genelet/horizon v1.14.3/go.mod h1:2QIiACDXXv32d8NzxuOkES7Q+5fEHG8zbr1CMyY8BCM=
 github.com/go-test/deep v1.0.3 h1:ZrJSEWsXzPOxaZnFteGEfooLba+ju3FYIbOrS+rQd68=
 github.com/go-test/deep v1.0.3/go.mod h1:wGDj63lr65AM2AQyKZd/NYHGb0R+1RLqB8NKt3aSFNA=
 github.com/google/go-cmp v0.7.0 h1:wk8382ETsv4JYUZwIsn6YpYiWiBsYLSJiTsyBybVuN8=

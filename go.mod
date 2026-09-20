@@ -4,7 +4,7 @@ go 1.25.4
 
 require (
 	github.com/OpenUdon/oas v0.0.0-20260507023120-7fb319711323
-	github.com/genelet/horizon v1.14.3-0.20260507024204-391037c28b8e
+	github.com/genelet/horizon v1.14.3
 	github.com/google/go-cmp v0.7.0
 	github.com/hashicorp/hcl/v2 v2.24.0
 	github.com/stretchr/testify v1.11.1
